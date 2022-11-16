@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RocketMaker69
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning how to create a programming language in TypeScript.
+- 🌱 I’m currently creating a programming language in Python. Check out Sodium!
 
 <!---
 RocketMaker69/RocketMaker69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
